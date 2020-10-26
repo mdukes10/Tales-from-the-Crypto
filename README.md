@@ -17,6 +17,7 @@ Sentiment Analysis
 Use the newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
 
 Questions:
+
 Q: Which coin had the highest mean positive score?
 
 A: BTC
