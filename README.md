@@ -28,6 +28,5 @@ A: ETH
 Q. Which coin had the highest positive score?
 
 A: ETH
-<matplotlib.image.AxesImage at 0x7ff8b93f4cd0>
-<matplotlib.image.AxesImage at 0x7ff8bf7d9150>
+
 
